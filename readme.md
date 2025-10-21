@@ -19,7 +19,7 @@ This project demonstrates GSAP timelines to animate text and images in a stylish
 ## 🌍 Live Demo
 
 🎯 **Try it now:**  
-👉 [**Click Here to Go Live**](https://ayush-raghuwanshi-dev.github.io/Francesco-Gioia-GSAP-Animation/) 
+👉 [**Click Here to Go Live**](https://ayush-raghuwanshi-dev.github.io/GSAP-Animated-Landing-Page/) 
 
 ---
 
@@ -94,6 +94,7 @@ This project is licensed under the MIT License —
 
 
 ⭐ If you liked this project, don’t forget to star the repo!
+
 
 
 
