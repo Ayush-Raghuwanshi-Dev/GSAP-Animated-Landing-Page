@@ -29,9 +29,13 @@ This project demonstrates GSAP timelines to animate text and images in a stylish
 ## 🧠 What I Learned
 
 - How to create and control animations using **GSAP Timelines**
-- Using `.from()` to define initial animation states  
-- Applying **stagger effects** for smooth sequences  
-- Managing element rotation, opacity, and transitions dynamically  
+- 
+- Using `.from()` to define initial animation states
+-  
+- Applying **stagger effects** for smooth sequences
+-  
+- Managing element rotation, opacity, and transitions dynamically
+-  
 
 ---
 
@@ -54,7 +58,9 @@ This project demonstrates GSAP timelines to animate text and images in a stylish
 🖼️ Example Animations:
 
 Navigation slides from top
+
 Text fades in with staggered effect
+
 Images rotate and fade in sequence
 
 ---
@@ -80,4 +86,5 @@ This project is licensed under the MIT License —
 
 
 ⭐ If you liked this project, don’t forget to star the repo!
+
 
