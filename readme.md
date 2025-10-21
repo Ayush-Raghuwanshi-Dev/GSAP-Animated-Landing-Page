@@ -47,7 +47,7 @@ This project demonstrates GSAP timelines to animate text and images in a stylish
 
 
 📸 Preview
-![Francesco Gioia Landing Page](assets/demo_image.jpg)
+![Francesco Gioia Landing Page](demo_image.png)
 
 ---
 
@@ -80,3 +80,4 @@ This project is licensed under the MIT License —
 
 
 ⭐ If you liked this project, don’t forget to star the repo!
+
