@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node (if you later add node tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build / distribution folders
+dist/
+build/
+
+# Env files
+.env
+
+# VS Code
+.vscode/
+
+# Misc
+*.log
