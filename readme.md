@@ -6,8 +6,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg)
 ![GSAP](https://img.shields.io/badge/GSAP-3.13.0-brightgreen.svg)
 ![GitHub stars](https://img.shields.io/github/stars/Ayush-Raghuwanshi-Dev/Francesco-Gioia-GSAP.svg?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Ayush-Raghuwanshi-Dev/Francesco-Gioia-GSAP.svg?style=social)
-![GitHub issues](https://img.shields.io/github/issues/Ayush-Raghuwanshi-Dev/Francesco-Gioia-GSAP.svg)
 
 ---
 
@@ -49,7 +47,7 @@ This project demonstrates GSAP timelines to animate text and images in a stylish
 
 
 📸 Preview
-(Add screenshots later if available)
+![Francesco Gioia Landing Page](assets/demo_image.jpg)
 
 ---
 
@@ -61,20 +59,14 @@ Images rotate and fade in sequence
 
 ---
 
-🔮 Future Scope
-
-🧭 Make layout fully responsive
-🎞️ Add ScrollTrigger-based animations
-🌐 Multilingual text animation
-📱 Add mobile-friendly image gallery
-
----
-
 👨‍💻 Author
 
 Ayush Raghuwanshi
+
 🎓 B.Tech CSE (IoT)
+
 📧 ayushraghuwanshi.dev@gmail.com
+
 🔗 GitHub: Ayush-Raghuwanshi-Dev
 
 ---
@@ -85,5 +77,6 @@ This project is licensed under the MIT License —
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
+
 
 ⭐ If you liked this project, don’t forget to star the repo!
